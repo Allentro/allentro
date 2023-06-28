@@ -2,17 +2,20 @@
 
 - Fusion Energy Engineer 
 
-- Predominantly work on the modelling of nuclear reactions, materials transmutation and neutronics 
-    - Fusion materials development 
-    - Breeder blanket and in-vessel component design 
+- Predominantly work on the modelling for fusion reactor design:
+    - Neutronics
+    - CFD / MHD
+    - Structural Analysis
+    - Thermal Hydraulics
 
-- Recently completed a PhD in Nuclear Physics, working on nuclear reaction cross-sections and nuclear data  
+- Recently completed a PhD in Nuclear Physics, researching the measurement and modelling of nuclear reaction cross-sections:
     - Nuclear reaction cross-sections 
     - Nuclear data 
     - Isotope production 
     - Transmutation
+ 
+Interested in developing and leveraging open-source software to enable the commercialisation of clean technology such as fusion. 
    
-- 🔭 I develop scripts and tool to assist with nuclear reaction and yield calculations 
+- 🔭 I develop scripts and tool to assist with reactor design 
 - As my skills grow I aim to contribute to open-source development
-- Passionate about making nuclear data accesible and flexible
 
