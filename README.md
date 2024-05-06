@@ -12,9 +12,7 @@ Currently a Senior Technologist at digiLab, where I'm responsible for developing
 
 🚀 Endeavouring to contibute to open-source tools to enhance reactor design and am expanding my contributions to open-source projects that promote the commercialization of clean technologies like fusion energy.
 
-### Connect with me
-[![LinkedIn Badge](https://img.shields.io/badge/-rossamallen-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/rossamallen/)](https://www.linkedin.com/in/rossamallen/)
-
 ![github stats](https://github-readme-stats.vercel.app/api?username=Allentro&show_icons=true&hide_rank=true&hide_title=true&bg_color=30,e76445,904e95&text_color=efe3ec&icon_color=efe3ec)
 
-![Recent GitHub Activity](https://activity-graph.herokuapp.com/graph?username=Allentro&theme=minimal)
+### Connect with me
+[![LinkedIn Badge](https://img.shields.io/badge/-rossamallen-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/rossamallen/)](https://www.linkedin.com/in/rossamallen/)
