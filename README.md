@@ -4,7 +4,7 @@
 
 Currently a Senior Technologist at digiLab, where I develop probablistic machine learning and uncertainty quantification solutions to fusion energy applications.
 
-🎓 Background in academia with a **PhD in Nuclear Physics** combining experimental methods and modelling. My research encompassed studying nuclear reaction cross-sections to refine data crucial for nuclear science, enhancing methods for isotope production, and exploring the potentials of element transmutation which are vital for waste reduction and resource management in nuclear technologies.
+🎓 Background in the intersection between experimental methods and modelling with a **PhD in Nuclear Physics**. My research encompassed studying nuclear reaction cross-sections to refine data crucial for nuclear science, enhancing methods for isotope production, and exploring the potentials of element transmutation which are vital for waste reduction and resource management in nuclear technologies.
 
 🚀 Endeavouring to contibute to open-source tools to enhance reactor design and am expanding my contributions to open-source projects that promote the commercialization of clean technologies like fusion energy.
 
