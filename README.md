@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌟 **Fusion Energy Engineer** specialising in designing, simulating and optimising fusion energy systems. My work spans several key areas: **Neutronics**, **(CFD/MHD)**, **Structural Analysis** & **Tritium Transport**.
+🌟 **Nuclear Physicist/Engineer** Specialising in designing, simulating and optimising fusion energy systems. My work spans several key areas: **Neutronics**, **(CFD/MHD)**, **Structural Analysis** & **Tritium Transport**.
 
 Currently a Senior Technologist at digiLab, where I develop probablistic machine learning and uncertainty quantification solutions to fusion energy applications.
 
